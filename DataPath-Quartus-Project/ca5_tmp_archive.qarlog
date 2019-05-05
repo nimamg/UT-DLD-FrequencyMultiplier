@@ -1,0 +1,27 @@
+Quartus II Archive log --	C:/Users/USER/Desktop/ca5 project/ca5_tmp_archive.qarlog
+
+Archive:	C:/Users/USER/Desktop/ca5 project/ca5_tmp_archive.qar
+Date:		Wed Dec 26 16:18:18 2018
+Quartus II 64-Bit		13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+
+	=========== Files Selected: ===========
+C:/Users/USER/Desktop/ca5 project/Multiplier.bdf
+C:/Users/USER/Desktop/ca5 project/ca5.bdf
+C:/Users/USER/Desktop/ca5 project/ca5.qpf
+C:/Users/USER/Desktop/ca5 project/ca5.qsf
+C:/Users/USER/Desktop/ca5 project/incremental_db/compiled_partitions/ca5.db_info
+C:/Users/USER/Desktop/ca5 project/lpm_clshift0.v
+C:/Users/USER/Desktop/ca5 project/lpm_counter1.v
+C:/Users/USER/Desktop/ca5 project/lpm_counter2.v
+C:/Users/USER/Desktop/controller/ctrl.v
+e:/altera/13.0sp1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 10 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Wed Dec 26 16:18:19 2018
+Source archive file:	C:/Users/USER/Desktop/ca5 project/ca5_tmp_archive.qar
+Archive was extracted into	C:/Users/USER/Desktop/hoomch/
+		 - successfully.

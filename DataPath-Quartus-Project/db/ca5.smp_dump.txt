@@ -1,0 +1,7 @@
+
+State Machine - |Multiplier|ctrl:inst2|ps
+Name ps.count ps.load ps.start ps.idle 
+ps.idle 0 0 0 0 
+ps.start 0 0 1 1 
+ps.load 0 1 0 1 
+ps.count 1 0 0 1 

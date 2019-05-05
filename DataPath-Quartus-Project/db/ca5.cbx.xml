@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="ca5">
+		<CBX_INST_ENTRY INSTANCE_NAME="|Multiplier|ca5:inst|lpm_clshift0:Shifter|lpm_clshift:LPM_CLSHIFT_component" CBX_FILE_NAME="lpm_clshift_vjc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Multiplier|ca5:inst|lpm_counter1:FrequencyDivider|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_8pj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Multiplier|ca5:inst|lpm_counter2:mCounter|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_8ek.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
